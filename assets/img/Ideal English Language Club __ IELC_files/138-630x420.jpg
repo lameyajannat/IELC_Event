@@ -1,0 +1,1318 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" prefix="og: https://ogp.me/ns#"> <!--<![endif]-->
+<head>
+    <title>Home - MeidilighT</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://www.meidilight.com/xmlrpc.php" />
+    <link rel="manifest" href="https://www.meidilight.com/wp-json/pwa-for-wp/v2/pwa-manifest-json">
+<link rel="apple-touch-icon" sizes="512x512" href="https://www.meidilight.com/wp-content/plugins/pwa-for-wp/images/logo-512x512.png">
+<link rel="apple-touch-icon-precomposed" sizes="192x192" href="http://meidilight.com/wp-content/plugins/pwa-for-wp/images/logo.png">
+
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://www.meidilight.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - MeidilighT" />
+<meta property="og:url" content="https://www.meidilight.com/" />
+<meta property="og:site_name" content="MeidilighT" />
+<meta property="og:updated_time" content="2024-02-29T10:17:08+00:00" />
+<meta property="article:published_time" content="2019-02-14T17:12:30+00:00" />
+<meta property="article:modified_time" content="2024-02-29T10:17:08+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Home - MeidilighT" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Admin" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="1 minute" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://www.meidilight.com/#person","name":"MeidilighT"},{"@type":"WebSite","@id":"https://www.meidilight.com/#website","url":"https://www.meidilight.com","name":"MeidilighT","publisher":{"@id":"https://www.meidilight.com/#person"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://www.meidilight.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.meidilight.com/#webpage","url":"https://www.meidilight.com/","name":"Home - MeidilighT","datePublished":"2019-02-14T17:12:30+00:00","dateModified":"2024-02-29T10:17:08+00:00","about":{"@id":"https://www.meidilight.com/#person"},"isPartOf":{"@id":"https://www.meidilight.com/#website"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.meidilight.com/author/admin/","name":"Admin","url":"https://www.meidilight.com/author/admin/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/52f9cfa0f3c2702f21a74dad10f0471d?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/52f9cfa0f3c2702f21a74dad10f0471d?s=96&amp;d=mm&amp;r=g","caption":"Admin","inLanguage":"en-US"},"sameAs":["https://www.meidilight.com/"]},{"@type":"Article","headline":"Home - MeidilighT","datePublished":"2019-02-14T17:12:30+00:00","dateModified":"2024-02-29T10:17:08+00:00","author":{"@id":"https://www.meidilight.com/author/admin/","name":"Admin"},"publisher":{"@id":"https://www.meidilight.com/#person"},"name":"Home - MeidilighT","@id":"https://www.meidilight.com/#richSnippet","isPartOf":{"@id":"https://www.meidilight.com/#webpage"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://www.meidilight.com/#webpage"}}]}</script>
+<meta name="google-site-verification" content="hTsPcKD7oULHOI3SX7VlKSmiZHx3zjnIq3iZ7xvlNgA" />
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel="alternate" type="application/rss+xml" title="MeidilighT &raquo; Feed" href="https://www.meidilight.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MeidilighT &raquo; Comments Feed" href="https://www.meidilight.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.meidilight.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 11px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 15px;--wp--preset--font-size--larger: 50px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='chaty-front-css-css' href='https://www.meidilight.com/wp-content/plugins/chaty/css/chaty-front.min.css?ver=3.1.81668487723' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='widgetopts-styles-css' href='https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/widget-options/assets/css/widget-options.css?ver=1736344339' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='td-plugin-multi-purpose-css' href='https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/td-multi-purpose/style.css?ver=1736344339' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='td-theme-css' href='https://www.meidilight.com/wp-content/cache/min/1/wp-content/themes/Newspaper/style.css?ver=1736344339' type='text/css' media='all' />
+<style id='td-theme-inline-css' type='text/css'>@media (max-width:767px){.td-header-desktop-wrap{display:none}}@media (min-width:767px){.td-header-mobile-wrap{display:none}}</style>
+<link rel='stylesheet' id='pwaforwp-style-css' href='https://www.meidilight.com/wp-content/plugins/pwa-for-wp/assets/css/pwaforwp-main.min.css?ver=1.7.66' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='td-legacy-framework-front-style-css' href='https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/assets/css/td_legacy_main.css?ver=1736344339' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='td-standard-pack-framework-front-style-css' href='https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-standard-pack/Newspaper/assets/css/td_standard_pack_main.css?ver=1736344340' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='tdb_style_cloud_templates_front-css' href='https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-cloud-library/assets/css/tdb_main.css?ver=1736344340' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.meidilight.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" defer></script>
+<script type="text/javascript" src="https://www.meidilight.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" defer></script>
+<link rel="https://api.w.org/" href="https://www.meidilight.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.meidilight.com/wp-json/wp/v2/pages/1239" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.meidilight.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.5" />
+<link rel='shortlink' href='https://www.meidilight.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.meidilight.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.meidilight.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.meidilight.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.meidilight.com%2F&#038;format=xml" />
+    <script>
+        window.tdb_global_vars = {"wpRestUrl":"https:\/\/www.meidilight.com\/wp-json\/","permalinkStructure":"\/%postname%\/"};
+        window.tdb_p_autoload_vars = {"isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":20};
+    </script>
+    
+    <style id="tdb-global-colors">:root{--accent-color:#fff}</style>
+	
+
+<!-- JS generated by theme -->
+
+<script>
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    // td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+        // td_js_generator - mini detector
+        ( function () {
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img, .td-lazy-img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img, .td-animation-stack .td-lazy-img";
+var tds_general_modal_image="yes";
+var tdc_is_installed="yes";
+var td_ajax_url="https:\/\/www.meidilight.com\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=12.6.3";
+var td_get_template_directory_uri="https:\/\/www.meidilight.com\/wp-content\/plugins\/td-composer\/legacy\/common";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="9";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var td_user_incorrect="Username incorrect!";
+var td_email_user_empty="Email or username empty!";
+var td_pass_empty="Pass empty!";
+var td_pass_pattern_incorrect="Invalid Pass Pattern!";
+var td_retype_pass_incorrect="Retyped Pass incorrect!";
+var tds_more_articles_on_post_enable="show";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=1200;
+var tds_captcha="";
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="";
+var tdThemeName="Newspaper";
+var tdThemeNameWl="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdBlockNonce="36b3964deb";
+var tdMobileMenu="enabled";
+var tdMobileSearch="enabled";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var tdb_modal_confirm="Save";
+var tdb_modal_cancel="Cancel";
+var tdb_modal_confirm_alt="Yes";
+var tdb_modal_cancel_alt="No";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>:root{--td_mobile_gradient_one_mob:rgba(0,0,0,0.5);--td_mobile_gradient_two_mob:rgba(0,0,0,0.6)}:root{--td_mobile_gradient_one_mob:rgba(0,0,0,0.5);--td_mobile_gradient_two_mob:rgba(0,0,0,0.6)}</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122719235-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122719235-1');
+</script>
+<link rel="icon" href="https://www.meidilight.com/wp-content/uploads/2024/03/Untitled_design__15_-removebg-preview-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://www.meidilight.com/wp-content/uploads/2024/03/Untitled_design__15_-removebg-preview-300x300.png" sizes="192x192" />
+<meta name="msapplication-TileImage" content="https://www.meidilight.com/wp-content/uploads/2024/03/Untitled_design__15_-removebg-preview-300x300.png" />
+<meta name="pwaforwp" content="wordpress-plugin"/>
+        <meta name="theme-color" content="#D5E0EB">
+        <meta name="apple-mobile-web-app-title" content="MeidilighT">
+        <meta name="application-name" content="MeidilighT">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="default">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-touch-fullscreen" content="yes">
+<link rel="apple-touch-icon" sizes="192x192" href="https://meidilight.com/wp-content/plugins/pwa-for-wp/images/logo.png">
+<link rel="apple-touch-icon" sizes="512x512" href="https://meidilight.com/wp-content/plugins/pwa-for-wp/images/logo-512x512.png">
+		<style type="text/css" id="wp-custom-css">
+			#jp-relatedposts {
+    display: none !important;
+}
+
+
+.td-wp-booster-error{
+    display: none;
+}		</style>
+		
+<!-- Button style compiled by theme -->
+
+<style></style>
+
+	<style id="tdw-css-placeholder"></style></head>
+
+<body class="home page-template-default page page-id-1239 td-standard-pack global-block-template-1 tdb-template td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+            <div class="td-scroll-up  td-hide-scroll-up-on-mob" style="display:none;"><i class="td-icon-menu-up"></i></div>
+    
+    <div class="td-menu-background" style="visibility:hidden"></div>
+<div id="td-mobile-nav" style="visibility:hidden">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/exploremeidilight/" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+                <span style="display: none">Facebook</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="mailto:ashokjimail@gmail.com" title="Mail">
+                <i class="td-icon-font td-icon-mail-1"></i>
+                <span style="display: none">Mail</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://meidilight.com/feed/" title="RSS">
+                <i class="td-icon-font td-icon-rss"></i>
+                <span style="display: none">RSS</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://join.skype.com/invite/y7xro7nYZ0TH" title="Skype">
+                <i class="td-icon-font td-icon-skype"></i>
+                <span style="display: none">Skype</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/meidilight" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+                <span style="display: none">Twitter</span>
+            </a>
+        </span>            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <span><i class="td-icon-close-mobile"></i></span>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-menu-1-container"><ul id="menu-menu-1" class="td-mobile-main-menu"><li id="menu-item-10326" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first menu-item-10326"><a href="https://www.meidilight.com/category/bio/">Biography</a></li>
+<li id="menu-item-237" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-237"><a href="https://www.meidilight.com/category/business/">Business</a></li>
+<li id="menu-item-14780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-14780"><a href="https://www.meidilight.com/category/gambling/">Gambling &#038; Casino<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-692" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-692"><a href="https://www.meidilight.com/category/sports/">Sports</a></li>
+	<li id="menu-item-8638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8638"><a href="https://www.meidilight.com/category/entertainment/">Entertainment</a></li>
+</ul>
+</li>
+<li id="menu-item-421" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-421"><a href="https://www.meidilight.com/category/health-beauty/">Health &amp; Beauty</a></li>
+<li id="menu-item-3032" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3032"><a href="https://www.meidilight.com/category/news/">News</a></li>
+<li id="menu-item-243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-243"><a href="https://www.meidilight.com/category/technology/">Technology</a></li>
+<li id="menu-item-61729" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-61729"><a href="#">More<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-2358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2358"><a href="https://www.meidilight.com/category/digital-marketing/">Digital Marketing</a></li>
+	<li id="menu-item-239" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-239"><a href="https://www.meidilight.com/category/education/">Education</a></li>
+	<li id="menu-item-444" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-444"><a href="https://www.meidilight.com/category/business/finance/">Finance</a></li>
+	<li id="menu-item-442" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-442"><a href="https://www.meidilight.com/category/business/real-estate/">Real Estate</a></li>
+	<li id="menu-item-240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-240"><a href="https://www.meidilight.com/category/fashion-and-jewelry/">Fashion &amp; Jewelry</a></li>
+	<li id="menu-item-59348" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59348"><a href="https://www.meidilight.com/category/home-decor/">Home Decor</a></li>
+	<li id="menu-item-2496" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2496"><a href="https://www.meidilight.com/category/travel-and-tourism/">Travel &amp; Tourism</a></li>
+</ul>
+</li>
+<li id="menu-item-54730" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54730"><a href="https://www.meidilight.com/contact-us/">Contact Us</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div><div class="td-search-background" style="visibility:hidden"></div>
+<div class="td-search-wrap-mob" style="visibility:hidden">
+	<div class="td-drop-down-search">
+		<form method="get" class="td-search-form" action="https://www.meidilight.com/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<span><i class="td-icon-close-mobile"></i></span>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob" class="td-ajax-search-flex"></div>
+	</div>
+</div>
+
+    <div id="td-outer-wrap" class="td-theme-wrap">
+    
+        
+            <div class="tdc-header-wrap ">
+
+            <!--
+Header style 9
+-->
+
+<div class="td-header-wrap td-header-style-9 ">
+    
+            <div class="td-header-top-menu-full td-container-wrap ">
+            <div class="td-container td-header-row td-header-top-menu">
+                
+    <div class="top-bar-style-2">
+        <div class="td-header-sp-top-widget">
+    
+    
+        
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://www.facebook.com/exploremeidilight/" title="Facebook">
+                <i class="td-icon-font td-icon-facebook"></i>
+                <span style="display: none">Facebook</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="mailto:ashokjimail@gmail.com" title="Mail">
+                <i class="td-icon-font td-icon-mail-1"></i>
+                <span style="display: none">Mail</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://meidilight.com/feed/" title="RSS">
+                <i class="td-icon-font td-icon-rss"></i>
+                <span style="display: none">RSS</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://join.skype.com/invite/y7xro7nYZ0TH" title="Skype">
+                <i class="td-icon-font td-icon-skype"></i>
+                <span style="display: none">Skype</span>
+            </a>
+        </span>
+        <span class="td-social-icon-wrap">
+            <a target="_blank" href="https://twitter.com/meidilight" title="Twitter">
+                <i class="td-icon-font td-icon-twitter"></i>
+                <span style="display: none">Twitter</span>
+            </a>
+        </span>    </div>
+
+        
+<div class="td-header-sp-top-menu">
+
+
+	        <div class="td_data_time">
+            <div >
+
+                Friday, June 6, 2025
+            </div>
+        </div>
+    </div>
+    </div>
+
+<!-- LOGIN MODAL -->
+
+                <div id="login-form" class="white-popup-block mfp-hide mfp-with-anim td-login-modal-wrap">
+                    <div class="td-login-wrap">
+                        <a href="#" aria-label="Back" class="td-back-button"><i class="td-icon-modal-back"></i></a>
+                        <div id="td-login-div" class="td-login-form-div td-display-block">
+                            <div class="td-login-panel-title">Sign in</div>
+                            <div class="td-login-panel-descr">Welcome! Log into your account</div>
+                            <div class="td_display_err"></div>
+                            <form id="loginForm" action="#" method="post">
+                                <div class="td-login-inputs"><input class="td-login-input" autocomplete="username" type="text" name="login_email" id="login_email" value="" required><label for="login_email">your username</label></div>
+                                <div class="td-login-inputs"><input class="td-login-input" autocomplete="current-password" type="password" name="login_pass" id="login_pass" value="" required><label for="login_pass">your password</label></div>
+                                <input type="button"  name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login">
+                                
+                            </form>
+
+                            
+
+                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
+                            
+                            
+                            
+                            
+                        </div>
+
+                        
+
+                         <div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
+                            <div class="td-login-panel-title">Password recovery</div>
+                            <div class="td-login-panel-descr">Recover your password</div>
+                            <div class="td_display_err"></div>
+                            <form id="forgotpassForm" action="#" method="post">
+                                <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required><label for="forgot_email">your email</label></div>
+                                <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password">
+                            </form>
+                            <div class="td-login-info-text">A password will be e-mailed to you.</div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+                            </div>
+        </div>
+    
+    <div class="td-banner-wrap-full td-logo-wrap-full  td-container-wrap ">
+        <div class="td-header-sp-logo">
+            		<div class="td-logo-text-wrap">
+			<span class="td-logo-text-container">
+				<a class="td-logo-wrap" href="https://www.meidilight.com/">
+					<h1 class="td-logo">						<span class="td-logo-text">MEIDILIGHT</span>
+					</h1>					<span class="td-tagline-text">DISCOVER THE ART OF PUBLISHING</span>
+				</a>
+			</span>
+		</div>
+	        </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full td-container-wrap ">
+        
+        <div class="td-header-menu-wrap td-header-gradient ">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div id="td-header-menu" role="navigation">
+        <div id="td-top-mobile-toggle"><a href="#" role="button" aria-label="Menu"><i class="td-icon-font td-icon-mobile"></i></a></div>
+        <div class="td-main-menu-logo td-logo-in-header">
+            </div>
+    <div class="menu-menu-1-container"><ul id="menu-menu-2" class="sf-menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-first td-menu-item td-normal-menu menu-item-10326"><a href="https://www.meidilight.com/category/bio/">Biography</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-237"><a href="https://www.meidilight.com/category/business/">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-14780"><a href="https://www.meidilight.com/category/gambling/">Gambling &#038; Casino</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-692"><a href="https://www.meidilight.com/category/sports/">Sports</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-8638"><a href="https://www.meidilight.com/category/entertainment/">Entertainment</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-421"><a href="https://www.meidilight.com/category/health-beauty/">Health &amp; Beauty</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-3032"><a href="https://www.meidilight.com/category/news/">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-243"><a href="https://www.meidilight.com/category/technology/">Technology</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-61729"><a href="#">More</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-2358"><a href="https://www.meidilight.com/category/digital-marketing/">Digital Marketing</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-239"><a href="https://www.meidilight.com/category/education/">Education</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-444"><a href="https://www.meidilight.com/category/business/finance/">Finance</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-442"><a href="https://www.meidilight.com/category/business/real-estate/">Real Estate</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-240"><a href="https://www.meidilight.com/category/fashion-and-jewelry/">Fashion &amp; Jewelry</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-59348"><a href="https://www.meidilight.com/category/home-decor/">Home Decor</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-2496"><a href="https://www.meidilight.com/category/travel-and-tourism/">Travel &amp; Tourism</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-54730"><a href="https://www.meidilight.com/contact-us/">Contact Us</a></li>
+</ul></div></div>
+
+
+    <div class="header-search-wrap">
+        <div class="td-search-btns-wrap">
+            <a id="td-header-search-button" href="#" role="button" aria-label="Search" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                            <a id="td-header-search-button-mob" href="#" role="button" aria-label="Search" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                    </div>
+
+        <div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+            <form method="get" class="td-search-form" action="https://www.meidilight.com/">
+                <div role="search" class="td-head-form-search-wrap">
+                    <input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+                </div>
+            </form>
+            <div id="td-aj-search"></div>
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+
+    
+</div>
+            </div>
+
+            
+        
+            <div class="td-main-content-wrap td-main-page-wrap td-container-wrap">
+                <div class="tdc-content-wrap">
+                    <div id="tdi_1" class="tdc-zone"><div class="tdc_zone tdi_2  wpb_row td-pb-row"  >
+<style scoped>.tdi_2{min-height:0}</style><div id="tdi_3" class="tdc-row"><div class="vc_row tdi_4  wpb_row td-pb-row" >
+<style scoped>.tdi_4,.tdi_4 .tdc-columns{min-height:0}.tdi_4,.tdi_4 .tdc-columns{display:block}.tdi_4 .tdc-columns{width:100%}</style><div class="vc_column tdi_6  wpb_column vc_column_container tdc-column td-pb-span12">
+<style scoped>.tdi_6{vertical-align:baseline}.tdi_6>.wpb_wrapper,.tdi_6>.wpb_wrapper>.tdc-elements{display:block}.tdi_6>.wpb_wrapper>.tdc-elements{width:100%}.tdi_6>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_6>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_block_big_grid_fl_9 tdi_7 td-grid-style-1 td-hover-1 td-big-grids-fl td-big-grids-margin td-big-grids-scroll td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_7" >
+<style></style><div id=tdi_7 class="td_block_inner"><div class="td-big-grid-wrapper td-posts-4">
+        <div class="td_module_mx19 td_module_wrap td-animation-stack td-big-grid-post-0 td-big-grid-post td-mx-23">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.meidilight.com/exploring-mumbai-in-a-day-as-a-couple-heres-why-you-should-book-an-hourly-hotel/"  rel="bookmark" class="td-image-wrap " title="Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/06/2.jpg"  ></span></a></div>            </div>
+
+            <div class="td-meta-info-container">
+                <div class="td-meta-align">
+                    <div class="td-big-grid-meta">
+                                                <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/exploring-mumbai-in-a-day-as-a-couple-heres-why-you-should-book-an-hourly-hotel/"  rel="bookmark" title="Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel">Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel</a></h3>                    </div>
+
+                    <div class="td-module-meta-info">
+                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                        <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-06-02T04:45:15+00:00" >June 2, 2025</time></span>                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="td-big-grid-scroll">
+        <div class="td_module_mx26 td_module_wrap td-animation-stack td-big-grid-post-1 td-big-grid-post td-mx-23">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.meidilight.com/td88-the-ultimate-platform-for-casino-sports-betting-and-more/"  rel="bookmark" class="td-image-wrap " title="TD88 – The Ultimate Platform for Casino, Sports Betting, and More" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/05/Screenshot-2025-05-23-135552-943x580.jpg"  ></span></a></div>            </div>
+
+            <div class="td-meta-info-container">
+                <div class="td-meta-align">
+                    <div class="td-big-grid-meta">
+                                                <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/td88-the-ultimate-platform-for-casino-sports-betting-and-more/"  rel="bookmark" title="TD88 – The Ultimate Platform for Casino, Sports Betting, and More">TD88 – The Ultimate Platform for Casino, Sports Betting, and More</a></h3>                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_mx25 td_module_wrap td-animation-stack td-big-grid-post-2 td-big-grid-post td-mx-15">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.meidilight.com/heres-why-you-should-try-curl-creams-gels-together/"  rel="bookmark" class="td-image-wrap " title="Here’s Why You Should Try Curl Creams &amp; Gels Together" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/05/4-485x360.jpg"  ></span></a></div>            </div>
+
+            <div class="td-meta-info-container">
+                <div class="td-meta-align">
+                    <div class="td-big-grid-meta">
+                                                <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/heres-why-you-should-try-curl-creams-gels-together/"  rel="bookmark" title="Here’s Why You Should Try Curl Creams &amp; Gels Together">Here’s Why You Should Try Curl Creams &amp; Gels Together</a></h3>                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_mx25 td_module_wrap td-animation-stack td-big-grid-post-3 td-big-grid-post td-mx-15">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://www.meidilight.com/what-to-expect-at-your-childs-first-dental-visit/"  rel="bookmark" class="td-image-wrap " title="What to Expect at Your Child’s First Dental Visit" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/05/image-485x360.png"  ></span></a></div>            </div>
+
+            <div class="td-meta-info-container">
+                <div class="td-meta-align">
+                    <div class="td-big-grid-meta">
+                                                <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/what-to-expect-at-your-childs-first-dental-visit/"  rel="bookmark" title="What to Expect at Your Child’s First Dental Visit">What to Expect at Your Child’s First Dental Visit</a></h3>                    </div>
+                </div>
+            </div>
+        </div>
+
+        </div><div class="clearfix"></div></div></div></div> <!-- ./block --></div></div></div></div><div id="tdi_8" class="tdc-row"><div class="vc_row tdi_9  wpb_row td-pb-row" >
+<style scoped>.tdi_9,.tdi_9 .tdc-columns{min-height:0}.tdi_9,.tdi_9 .tdc-columns{display:block}.tdi_9 .tdc-columns{width:100%}</style><div class="vc_column tdi_11  wpb_column vc_column_container tdc-column td-pb-span12">
+<style scoped>.tdi_11{vertical-align:baseline}.tdi_11>.wpb_wrapper,.tdi_11>.wpb_wrapper>.tdc-elements{display:block}.tdi_11>.wpb_wrapper>.tdc-elements{width:100%}.tdi_11>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_11>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ></div></div></div></div><div id="tdi_12" class="tdc-row"><div class="vc_row tdi_13  wpb_row td-pb-row" >
+<style scoped>.tdi_13,.tdi_13 .tdc-columns{min-height:0}.tdi_13,.tdi_13 .tdc-columns{display:block}.tdi_13 .tdc-columns{width:100%}</style><div class="vc_column tdi_15  wpb_column vc_column_container tdc-column td-pb-span12">
+<style scoped>.tdi_15{vertical-align:baseline}.tdi_15>.wpb_wrapper,.tdi_15>.wpb_wrapper>.tdc-elements{display:block}.tdi_15>.wpb_wrapper>.tdc-elements{width:100%}.tdi_15>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_15>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_block_trending_now tdi_16 td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_16" >
+<style>.td_block_trending_now{padding:0 18px}.td-trending-now-wrapper{display:flex;align-items:center;position:relative;-webkit-transform:translate3d(0px,0px,0px);transform:translate3d(0px,0px,0px);overflow:hidden}.td-trending-now-wrapper .td-next-prev-wrap{margin:0 0 0 auto;z-index:1}.td-trending-now-wrapper:hover .td-trending-now-title{background-color:var(--td_theme_color,#4db2ec)}.td-trending-now-wrapper .td-trending-now-nav-right{padding-left:2px}.td-trending-now-title{background-color:#222;font-family:'Roboto',sans-serif;font-size:12px;text-transform:uppercase;color:#fff;padding:2px 10px 1px;display:inline-block;line-height:22px;-webkit-transition:background-color 0.3s;transition:background-color 0.3s;cursor:default;-webkit-user-select:none;user-select:none}@-moz-document url-prefix(){.td-trending-now-title{line-height:21px}}.td-trending-now-display-area{display:flex;align-items:center;vertical-align:top;padding:0 0 0 15px}.td-trending-now-display-area .entry-title{font-size:15px;line-height:25px;margin:0}.td-trending-now-post{opacity:0;position:absolute;top:0;padding-right:119px;overflow:hidden}.td-trending-now-post:first-child{opacity:1;z-index:1;opacity:1}.td-next-prev-wrap .td-trending-now-nav-right{margin-right:0}.td_block_trending_now.td-trending-style2{border:1px solid #eaeaea;padding-top:20px;padding-bottom:20px}@media (min-width:768px) and (max-width:1018px){.td_block_trending_now{padding:0 6px}}@media (min-width:768px) and (max-width:1018px){.td-trending-now-post{padding-right:107px}}@media (max-width:767px){.td_block_trending_now{padding:0}.td-trending-now-wrapper{flex-direction:column;text-align:center}.td-trending-now-wrapper .td-next-prev-wrap{display:none}.td-trending-now-title{padding:2px 10px 1px}.td-trending-now-display-area{width:100%;padding:0;display:block;height:26px;position:relative;top:10px}.td-trending-now-display-area .td_module_trending_now .entry-title{font-size:14px;line-height:16px}.td-trending-now-post{width:100%;padding-right:0}}</style><script>var block_tdi_16 = new tdBlock();
+block_tdi_16.id = "tdi_16";
+block_tdi_16.atts = '{"tdc_css":"eyJhbGwiOnsiZGlzcGxheSI6IiJ9fQ==","block_type":"td_block_trending_now","custom_title":"","title_padding":"","navigation":"","timer":3,"style":"","separator":"","mt_tl":"","mt_title_tag":"","post_ids":"","category_id":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","sort":"","popular_by_date":"","linked_posts":"","favourite_only":"","limit":"5","offset":"","open_in_new_window":"","time_ago_txt_pos":"","review_source":"","el_class":"","header_text_color":"","header_color":"","articles_color":"","next_prev_color":"","next_prev_border_color":"","next_prev_hover_color":"","f_title_font_header":"","f_title_font_title":"Block title","f_title_font_settings":"","f_title_font_family":"","f_title_font_size":"","f_title_font_line_height":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_article_font_title":"Articles title","f_article_font_settings":"","f_article_font_family":"","f_article_font_size":"","f_article_font_line_height":"","f_article_font_style":"","f_article_font_weight":"","f_article_font_transform":"","f_article_font_spacing":"","f_article_":"","css":"","block_template_id":"","td_column_number":3,"ajax_pagination_infinite_stop":"","td_ajax_preloading":"","td_ajax_filter_type":"","td_filter_default_txt":"","td_ajax_filter_ids":"","color_preset":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","border_top":"","class":"tdi_16","tdc_css_class":"tdi_16","tdc_css_class_style":"tdi_16_rand_style"}';
+block_tdi_16.td_column_number = "3";
+block_tdi_16.block_type = "td_block_trending_now";
+block_tdi_16.post_count = "5";
+block_tdi_16.found_posts = "7792";
+block_tdi_16.header_color = "";
+block_tdi_16.ajax_pagination_infinite_stop = "";
+block_tdi_16.max_num_pages = "1559";
+tdBlocksArray.push(block_tdi_16);
+</script><div class="td_block_inner"><div class="td-trending-now-wrapper" id="tdi_16" data-start="" data-timer=""><div class="td-trending-now-title">Trending Now</div><div class="td-trending-now-display-area">
+        <div class="td_module_trending_now td-trending-now-post-0 td-trending-now-post td-cpt-post">
+
+            <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/exploring-mumbai-in-a-day-as-a-couple-heres-why-you-should-book-an-hourly-hotel/"  rel="bookmark" title="Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel">Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel</a></h3>
+        </div>
+
+        
+        <div class="td_module_trending_now td-trending-now-post-1 td-trending-now-post td-cpt-post">
+
+            <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/td88-the-ultimate-platform-for-casino-sports-betting-and-more/"  rel="bookmark" title="TD88 – The Ultimate Platform for Casino, Sports Betting, and More">TD88 – The Ultimate Platform for Casino, Sports Betting, and More</a></h3>
+        </div>
+
+        
+        <div class="td_module_trending_now td-trending-now-post-2 td-trending-now-post td-cpt-post">
+
+            <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/heres-why-you-should-try-curl-creams-gels-together/"  rel="bookmark" title="Here’s Why You Should Try Curl Creams &amp; Gels Together">Here’s Why You Should Try Curl Creams &amp; Gels Together</a></h3>
+        </div>
+
+        
+        <div class="td_module_trending_now td-trending-now-post-3 td-trending-now-post td-cpt-post">
+
+            <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/what-to-expect-at-your-childs-first-dental-visit/"  rel="bookmark" title="What to Expect at Your Child’s First Dental Visit">What to Expect at Your Child’s First Dental Visit</a></h3>
+        </div>
+
+        
+        <div class="td_module_trending_now td-trending-now-post-4 td-trending-now-post td-cpt-post">
+
+            <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/effective-ayurvedic-face-packs-for-glowing-skin/"  rel="bookmark" title="Effective Ayurvedic Face Packs For Glowing Skin.">Effective Ayurvedic Face Packs For Glowing Skin.</a></h3>
+        </div>
+
+        </div><div class="td-next-prev-wrap"><a href="#"
+                                  class="td_ajax-prev-pagex td-trending-now-nav-left" 
+                                  aria-label="prev" 
+                                  data-block-id="tdi_16"
+                                  data-moving="left"
+                                  data-control-start=""><i class="td-icon-menu-left"></i></a><a href="#"
+                                  class="td_ajax-next-pagex td-trending-now-nav-right" 
+                                  aria-label="next"
+                                  data-block-id="tdi_16"
+                                  data-moving="right"
+                                  data-control-start=""><i class="td-icon-menu-right"></i></a></div></div></div></div></div></div></div></div><div id="tdi_17" class="tdc-row"><div class="vc_row tdi_18  wpb_row td-pb-row" >
+<style scoped>.tdi_18,.tdi_18 .tdc-columns{min-height:0}.tdi_18,.tdi_18 .tdc-columns{display:block}.tdi_18 .tdc-columns{width:100%}</style><div class="vc_column tdi_20  wpb_column vc_column_container tdc-column td-pb-span12">
+<style scoped>.tdi_20{vertical-align:baseline}.tdi_20>.wpb_wrapper,.tdi_20>.wpb_wrapper>.tdc-elements{display:block}.tdi_20>.wpb_wrapper>.tdc-elements{width:100%}.tdi_20>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_20>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_1 tdi_21 td_with_ajax_pagination td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_21" >
+<style>.tdi_21 .entry-thumb{background-position:center 50%}.tdi_21 .td-module-container{flex-direction:column;border-color:#eaeaea!important}.tdi_21 .td-image-container{display:block;order:0}.ie10 .tdi_21 .td-module-meta-info,.ie11 .tdi_21 .td-module-meta-info{flex:auto}body .tdi_21 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_21 .td-module-meta-info{border-color:#eaeaea}.tdi_21 .td_module_wrap{width:33.33333333%;float:left;padding-left:20px;padding-right:20px;padding-bottom:18px;margin-bottom:18px}.rtl .tdi_21 .td_module_wrap{float:right}.tdi_21 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_21 .td-module-container:before{bottom:-18px;border-color:#eaeaea}.tdi_21 .td-post-vid-time{display:block}.tdi_21 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_21 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_21 .td-excerpt{display:none;column-count:1;column-gap:48px}.tdi_21 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_21 .td-read-more{display:none}.tdi_21 .td-author-date{display:inline}.tdi_21 .td-post-author-name{display:inline-block}.tdi_21 .td-post-date,.tdi_21 .td-post-author-name span{display:inline-block}.tdi_21 .entry-review-stars{display:none}.tdi_21 .td-icon-star,.tdi_21 .td-icon-star-empty,.tdi_21 .td-icon-star-half{font-size:15px}.tdi_21 .td-module-comments{display:none}.tdi_21 .td_module_wrap:nth-child(3n+1){clear:both}.tdi_21 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0;padding-bottom:0}.tdi_21 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none}html:not([class*='ie']) .tdi_21 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:1019px) and (max-width:1140px){.tdi_21 .td_module_wrap{padding-bottom:18px;margin-bottom:18px}.tdi_21 .td-module-container:before{bottom:-18px}.tdi_21 .td_module_wrap{clear:none!important;padding-bottom:18px!important;margin-bottom:18px!important}.tdi_21 .td_module_wrap:nth-child(3n+1){clear:both!important}.tdi_21 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0!important;padding-bottom:0!important}.tdi_21 .td_module_wrap .td-module-container:before{display:block!important}.tdi_21 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none!important}}@media (min-width:768px) and (max-width:1018px){.tdi_21 .td_module_wrap{padding-bottom:18px;margin-bottom:18px}.tdi_21 .td-module-container:before{bottom:-18px}.tdi_21 .td_module_wrap{clear:none!important;padding-bottom:18px!important;margin-bottom:18px!important}.tdi_21 .td_module_wrap:nth-child(3n+1){clear:both!important}.tdi_21 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0!important;padding-bottom:0!important}.tdi_21 .td_module_wrap .td-module-container:before{display:block!important}.tdi_21 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none!important}}@media (max-width:767px){.tdi_21 .td_module_wrap{padding-bottom:18px;margin-bottom:18px}.tdi_21 .td-module-container:before{bottom:-18px}.tdi_21 .td_module_wrap{clear:none!important;padding-bottom:18px!important;margin-bottom:18px!important}.tdi_21 .td_module_wrap:nth-child(3n+1){clear:both!important}.tdi_21 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0!important;padding-bottom:0!important}.tdi_21 .td_module_wrap .td-module-container:before{display:block!important}.tdi_21 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none!important}}</style><script>var block_tdi_21 = new tdBlock();
+block_tdi_21.id = "tdi_21";
+block_tdi_21.atts = '{"modules_on_row":"33.33333333%","limit":"3","hide_audio":"yes","show_btn":"none","show_review":"none","show_excerpt":"none","show_com":"none","ajax_pagination":"load_more","category_id":"4981","block_type":"td_flex_block_1","separator":"","custom_title":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","sort":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","container_width":"","modules_gap":"","m_padding":"","all_modules_space":"36","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_border_radius":"","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_size":"","image_alignment":"50","image_height":"","image_width":"","image_floated":"no_float","image_radius":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_info_horiz":"layout-default","meta_width":"","meta_margin":"","meta_padding":"","meta_space":"","art_title":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","modules_category":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","modules_extra_cat":"","show_author":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_date":"inline-block","review_space":"","review_size":"2.5","review_distance":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","excerpt_inline":"","show_audio":"block","art_audio":"","art_audio_size":"1.5","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_size":"","f_title_font_line_height":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":3,"header_color":"","color_preset":"","border_top":"","class":"tdi_21","tdc_css_class":"tdi_21","tdc_css_class_style":"tdi_21_rand_style"}';
+block_tdi_21.td_column_number = "3";
+block_tdi_21.block_type = "td_flex_block_1";
+block_tdi_21.post_count = "3";
+block_tdi_21.found_posts = "7792";
+block_tdi_21.header_color = "";
+block_tdi_21.ajax_pagination_infinite_stop = "";
+block_tdi_21.max_num_pages = "2598";
+tdBlocksArray.push(block_tdi_21);
+</script><div class="td-block-title-wrap"></div><div id=tdi_21 class="td_block_inner td-mc1-wrap">
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/shamon-brown-jr/"  rel="bookmark" class="td-image-wrap " title="Shamon Brown Jr. &#8211; Movies, Biography, News, Age &amp; Photos" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2024/03/Untitled-design-22-696x428.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/shamon-brown-jr/"  rel="bookmark" title="Shamon Brown Jr. &#8211; Movies, Biography, News, Age &amp; Photos">Shamon Brown Jr. &#8211; Movies, Biography, News, Age &amp; Photos</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/bio/" class="td-post-category">Biography</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/sports-broadcasting-site/">5 interesting facts about sports broadcasting site</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-03-05T09:07:58+00:00" >March 5, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/why-choose-geoff-mcdonald-associates-p-c-as-your-richmond-personal-injury-attorney/"  rel="bookmark" class="td-image-wrap " title="Why Choose Geoff McDonald &amp; Associates, P.C. as Your Richmond Personal Injury Attorney" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2024/01/Geoff-McDonald.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/why-choose-geoff-mcdonald-associates-p-c-as-your-richmond-personal-injury-attorney/"  rel="bookmark" title="Why Choose Geoff McDonald &amp; Associates, P.C. as Your Richmond Personal Injury Attorney">Why Choose Geoff McDonald &amp; Associates, P.C. as Your Richmond Personal Injury Attorney</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/bio/" class="td-post-category">Biography</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-01-24T12:40:34+00:00" >January 24, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/zulekha-haywood/"  rel="bookmark" class="td-image-wrap " title="Zulekha Haywood: Daughter of Iman and Spencer Haywood" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2023/12/1-5-696x428.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/zulekha-haywood/"  rel="bookmark" title="Zulekha Haywood: Daughter of Iman and Spencer Haywood">Zulekha Haywood: Daughter of Iman and Spencer Haywood</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/bio/" class="td-post-category">Biography</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/sports-broadcasting-site/">5 interesting facts about sports broadcasting site</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2023-12-14T10:31:04+00:00" >December 14, 2023</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        </div><div class="td-load-more-wrap"><a href="#" class="td_ajax_load_more td_ajax_load_more_js" aria-label="Load more" id="next-page-tdi_21" data-td_block_id="tdi_21">Load more<i class="td-load-more-icon td-icon-font td-icon-menu-right"></i></a></div></div></div></div></div></div><div id="tdi_22" class="tdc-row"><div class="vc_row tdi_23  wpb_row td-pb-row" >
+<style scoped>.tdi_23,.tdi_23 .tdc-columns{min-height:0}.tdi_23,.tdi_23 .tdc-columns{display:block}.tdi_23 .tdc-columns{width:100%}</style><div class="vc_column tdi_25  wpb_column vc_column_container tdc-column td-pb-span9">
+<style scoped>.tdi_25{vertical-align:top}.tdi_25>.wpb_wrapper,.tdi_25>.wpb_wrapper>.tdc-elements{display:block}.tdi_25>.wpb_wrapper>.tdc-elements{width:100%}.tdi_25>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_25>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_1 tdi_26 td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_26" >
+<style>.tdi_26 .entry-thumb{background-position:center 50%}.tdi_26 .td-module-container{flex-direction:column;border-color:#eaeaea!important}.tdi_26 .td-image-container{display:block;order:0}.ie10 .tdi_26 .td-module-meta-info,.ie11 .tdi_26 .td-module-meta-info{flex:auto}body .tdi_26 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_26 .td-module-meta-info{border-color:#eaeaea}.tdi_26 .td_module_wrap{width:33.33333333%;float:left;padding-left:10px;padding-right:10px;padding-bottom:10px;margin-bottom:10px}.rtl .tdi_26 .td_module_wrap{float:right}.tdi_26 .td_block_inner{margin-left:-10px;margin-right:-10px}.tdi_26 .td-module-container:before{bottom:-10px;border-color:#eaeaea}.tdi_26 .td-post-vid-time{display:block}.tdi_26 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_26 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_26 .td-excerpt{display:none;column-count:1;column-gap:48px}.tdi_26 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_26 .td-read-more{display:none}.tdi_26 .td-author-date{display:inline}.tdi_26 .td-post-author-name{display:inline-block}.tdi_26 .td-post-date,.tdi_26 .td-post-author-name span{display:inline-block}.tdi_26 .entry-review-stars{display:none}.tdi_26 .td-icon-star,.tdi_26 .td-icon-star-empty,.tdi_26 .td-icon-star-half{font-size:15px}.tdi_26 .td-module-comments{display:none}.tdi_26 .td_module_wrap:nth-child(3n+1){clear:both}.tdi_26 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0;padding-bottom:0}.tdi_26 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none}html:not([class*='ie']) .tdi_26 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:1019px) and (max-width:1140px){.tdi_26 .td_module_wrap{padding-bottom:10px;margin-bottom:10px}.tdi_26 .td-module-container:before{bottom:-10px}.tdi_26 .td_module_wrap{clear:none!important;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_26 .td_module_wrap:nth-child(3n+1){clear:both!important}.tdi_26 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0!important;padding-bottom:0!important}.tdi_26 .td_module_wrap .td-module-container:before{display:block!important}.tdi_26 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none!important}}@media (min-width:768px) and (max-width:1018px){.tdi_26 .td_module_wrap{padding-bottom:10px;margin-bottom:10px}.tdi_26 .td-module-container:before{bottom:-10px}.tdi_26 .td_module_wrap{clear:none!important;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_26 .td_module_wrap:nth-child(3n+1){clear:both!important}.tdi_26 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0!important;padding-bottom:0!important}.tdi_26 .td_module_wrap .td-module-container:before{display:block!important}.tdi_26 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none!important}}@media (max-width:767px){.tdi_26 .td_module_wrap{width:50%;float:left}.rtl .tdi_26 .td_module_wrap{float:right}.tdi_26 .td_module_wrap{padding-bottom:10px;margin-bottom:10px;clear:none!important;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_26 .td-module-container:before{bottom:-10px}.tdi_26 .td_module_wrap:nth-child(2n+1){clear:both!important}.tdi_26 .td_module_wrap:nth-last-child(-n+2){margin-bottom:0!important;padding-bottom:0!important}.tdi_26 .td_module_wrap .td-module-container:before{display:block!important}.tdi_26 .td_module_wrap:nth-last-child(-n+2) .td-module-container:before{display:none!important}}</style><script>var block_tdi_26 = new tdBlock();
+block_tdi_26.id = "tdi_26";
+block_tdi_26.atts = '{"modules_on_row":"eyJhbGwiOiIzMy4zMzMzMzMzMyUiLCJwaG9uZSI6IjUwJSJ9","limit":"6","hide_audio":"yes","modules_gap":"20","all_modules_space":"20","show_btn":"none","show_excerpt":"none","show_com":"none","show_review":"none","category_id":"","block_type":"td_flex_block_1","separator":"","custom_title":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","sort":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","container_width":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_border_radius":"","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_size":"","image_alignment":"50","image_height":"","image_width":"","image_floated":"no_float","image_radius":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_info_horiz":"layout-default","meta_width":"","meta_margin":"","meta_padding":"","meta_space":"","art_title":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","modules_category":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","modules_extra_cat":"","show_author":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_date":"inline-block","review_space":"","review_size":"2.5","review_distance":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","excerpt_inline":"","show_audio":"block","art_audio":"","art_audio_size":"1.5","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_size":"","f_title_font_line_height":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_26","tdc_css_class":"tdi_26","tdc_css_class_style":"tdi_26_rand_style"}';
+block_tdi_26.td_column_number = "1";
+block_tdi_26.block_type = "td_flex_block_1";
+block_tdi_26.post_count = "6";
+block_tdi_26.found_posts = "7792";
+block_tdi_26.header_color = "";
+block_tdi_26.ajax_pagination_infinite_stop = "";
+block_tdi_26.max_num_pages = "1299";
+tdBlocksArray.push(block_tdi_26);
+</script><div class="td-block-title-wrap"></div><div id=tdi_26 class="td_block_inner td-mc1-wrap">
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/exploring-mumbai-in-a-day-as-a-couple-heres-why-you-should-book-an-hourly-hotel/"  rel="bookmark" class="td-image-wrap " title="Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/06/2-696x381.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/exploring-mumbai-in-a-day-as-a-couple-heres-why-you-should-book-an-hourly-hotel/"  rel="bookmark" title="Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel">Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/lifestyle/" class="td-post-category">Lifestyle</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-06-02T04:45:15+00:00" >June 2, 2025</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/td88-the-ultimate-platform-for-casino-sports-betting-and-more/"  rel="bookmark" class="td-image-wrap " title="TD88 – The Ultimate Platform for Casino, Sports Betting, and More" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/05/Screenshot-2025-05-23-135552-696x445.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/td88-the-ultimate-platform-for-casino-sports-betting-and-more/"  rel="bookmark" title="TD88 – The Ultimate Platform for Casino, Sports Betting, and More">TD88 – The Ultimate Platform for Casino, Sports Betting, and More</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/casino/" class="td-post-category">Casino</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-23T08:30:43+00:00" >May 23, 2025</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/heres-why-you-should-try-curl-creams-gels-together/"  rel="bookmark" class="td-image-wrap " title="Here’s Why You Should Try Curl Creams &amp; Gels Together" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/05/4-696x368.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/heres-why-you-should-try-curl-creams-gels-together/"  rel="bookmark" title="Here’s Why You Should Try Curl Creams &amp; Gels Together">Here’s Why You Should Try Curl Creams &amp; Gels Together</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/fashion/" class="td-post-category">Fashion</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-21T05:48:21+00:00" >May 21, 2025</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/what-to-expect-at-your-childs-first-dental-visit/"  rel="bookmark" class="td-image-wrap " title="What to Expect at Your Child’s First Dental Visit" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/05/image.png"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/what-to-expect-at-your-childs-first-dental-visit/"  rel="bookmark" title="What to Expect at Your Child’s First Dental Visit">What to Expect at Your Child’s First Dental Visit</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/health/" class="td-post-category">health</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-17T07:23:02+00:00" >May 17, 2025</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/effective-ayurvedic-face-packs-for-glowing-skin/"  rel="bookmark" class="td-image-wrap " title="Effective Ayurvedic Face Packs For Glowing Skin." ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_696x0.png"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/effective-ayurvedic-face-packs-for-glowing-skin/"  rel="bookmark" title="Effective Ayurvedic Face Packs For Glowing Skin.">Effective Ayurvedic Face Packs For Glowing Skin.</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/health-beauty/" class="td-post-category">Health &amp; Beauty</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-04-28T10:53:56+00:00" >April 28, 2025</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/gambling-in-the-age-of-systems-the-new-architecture-of-risk/"  rel="bookmark" class="td-image-wrap " title="Gambling in the Age of Systems: The New Architecture of Risk" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/04/images.jpeg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/gambling-in-the-age-of-systems-the-new-architecture-of-risk/"  rel="bookmark" title="Gambling in the Age of Systems: The New Architecture of Risk">Gambling in the Age of Systems: The New Architecture of Risk</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/casino/" class="td-post-category">Casino</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-04-21T07:53:44+00:00" >April 21, 2025</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        </div></div></div></div><div class="vc_column tdi_28  wpb_column vc_column_container tdc-column td-pb-span3">
+<style scoped>.tdi_28{vertical-align:baseline}.tdi_28>.wpb_wrapper,.tdi_28>.wpb_wrapper>.tdc-elements{display:block}.tdi_28>.wpb_wrapper>.tdc-elements{width:100%}.tdi_28>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_28>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_1 tdi_29 td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_29" >
+<style></style>
+<style>.tdi_29 .entry-thumb{background-position:center 50%}.tdi_29 .td-module-container{flex-direction:column;border-color:#eaeaea!important}.tdi_29 .td-image-container{display:block;order:0}.ie10 .tdi_29 .td-module-meta-info,.ie11 .tdi_29 .td-module-meta-info{flex:auto}body .tdi_29 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_29 .td-module-meta-info{border-color:#eaeaea}.tdi_29 .td_module_wrap{padding-left:10px;padding-right:10px;padding-bottom:10px;margin-bottom:10px}.tdi_29 .td_block_inner{margin-left:-10px;margin-right:-10px}.tdi_29 .td-module-container:before{bottom:-10px;border-color:#eaeaea}.tdi_29 .td-post-vid-time{display:block}.tdi_29 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_29 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_29 .td-excerpt{display:none;column-count:1;column-gap:48px}.tdi_29 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_29 .td-read-more{display:none}.tdi_29 .td-author-date{display:inline}.tdi_29 .td-post-author-name{display:inline-block}.tdi_29 .td-post-date,.tdi_29 .td-post-author-name span{display:inline-block}.tdi_29 .entry-review-stars{display:none}.tdi_29 .td-icon-star,.tdi_29 .td-icon-star-empty,.tdi_29 .td-icon-star-half{font-size:15px}.tdi_29 .td-module-comments{display:none}.tdi_29 .td_module_wrap:nth-last-child(1){margin-bottom:0;padding-bottom:0}.tdi_29 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none}.tdi_29 .td-block-title a,.tdi_29 .td-block-title span{text-transform:uppercase!important}html:not([class*='ie']) .tdi_29 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:1019px) and (max-width:1140px){.tdi_29 .td_module_wrap{padding-bottom:10px;margin-bottom:10px}.tdi_29 .td-module-container:before{bottom:-10px}.tdi_29 .td_module_wrap{padding-bottom:10px!important;margin-bottom:10px!important}.tdi_29 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_29 .td_module_wrap .td-module-container:before{display:block!important}.tdi_29 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}}@media (min-width:768px) and (max-width:1018px){.tdi_29 .td_module_wrap{padding-bottom:10px;margin-bottom:10px}.tdi_29 .td-module-container:before{bottom:-10px}.tdi_29 .td_module_wrap{padding-bottom:10px!important;margin-bottom:10px!important}.tdi_29 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_29 .td_module_wrap .td-module-container:before{display:block!important}.tdi_29 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}}@media (max-width:767px){.tdi_29 .td_module_wrap{width:100%;float:left}.rtl .tdi_29 .td_module_wrap{float:right}.tdi_29 .td_module_wrap{padding-bottom:10px;margin-bottom:10px;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_29 .td-module-container:before{bottom:-10px}.tdi_29 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_29 .td_module_wrap .td-module-container:before{display:block!important}.tdi_29 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}}</style><script>var block_tdi_29 = new tdBlock();
+block_tdi_29.id = "tdi_29";
+block_tdi_29.atts = '{"modules_on_row":"eyJwaG9uZSI6IjEwMCUifQ==","limit":"2","hide_audio":"yes","modules_gap":"20","all_modules_space":"20","show_btn":"none","show_excerpt":"none","show_com":"none","show_review":"none","category_id":"","f_header_font_transform":"uppercase","sort":"random_7_day","custom_title":"Most Popular","block_type":"td_flex_block_1","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","container_width":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_border_radius":"","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_size":"","image_alignment":"50","image_height":"","image_width":"","image_floated":"no_float","image_radius":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_info_horiz":"layout-default","meta_width":"","meta_margin":"","meta_padding":"","meta_space":"","art_title":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","modules_category":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","modules_extra_cat":"","show_author":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_date":"inline-block","review_space":"","review_size":"2.5","review_distance":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","excerpt_inline":"","show_audio":"block","art_audio":"","art_audio_size":"1.5","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_size":"","f_title_font_line_height":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_29","tdc_css_class":"tdi_29","tdc_css_class_style":"tdi_29_rand_style"}';
+block_tdi_29.td_column_number = "1";
+block_tdi_29.block_type = "td_flex_block_1";
+block_tdi_29.post_count = "1";
+block_tdi_29.found_posts = "7792";
+block_tdi_29.header_color = "";
+block_tdi_29.ajax_pagination_infinite_stop = "";
+block_tdi_29.max_num_pages = "3896";
+tdBlocksArray.push(block_tdi_29);
+</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Most Popular</span></h4></div><div id=tdi_29 class="td_block_inner td-mc1-wrap">
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/exploring-mumbai-in-a-day-as-a-couple-heres-why-you-should-book-an-hourly-hotel/"  rel="bookmark" class="td-image-wrap " title="Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/06/2-696x381.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/exploring-mumbai-in-a-day-as-a-couple-heres-why-you-should-book-an-hourly-hotel/"  rel="bookmark" title="Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel">Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/lifestyle/" class="td-post-category">Lifestyle</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-06-02T04:45:15+00:00" >June 2, 2025</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        </div></div></div></div></div></div><div id="tdi_30" class="tdc-row"><div class="vc_row tdi_31  wpb_row td-pb-row" >
+<style scoped>.tdi_31,.tdi_31 .tdc-columns{min-height:0}.tdi_31,.tdi_31 .tdc-columns{display:block}.tdi_31 .tdc-columns{width:100%}</style><div class="vc_column tdi_33  wpb_column vc_column_container tdc-column td-pb-span9">
+<style scoped>.tdi_33{vertical-align:top}.tdi_33>.wpb_wrapper,.tdi_33>.wpb_wrapper>.tdc-elements{display:block}.tdi_33>.wpb_wrapper>.tdc-elements{width:100%}.tdi_33>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_33>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_1 tdi_34 td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_34" >
+<style></style>
+<style>.tdi_34 .entry-thumb{background-position:center 50%}.tdi_34 .td-module-container{flex-direction:column;border-color:#eaeaea!important}.tdi_34 .td-image-container{display:block;order:0}.ie10 .tdi_34 .td-module-meta-info,.ie11 .tdi_34 .td-module-meta-info{flex:auto}body .tdi_34 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_34 .td-module-meta-info{border-color:#eaeaea}.tdi_34 .td_module_wrap{width:33.33333333%;float:left;padding-left:10px;padding-right:10px;padding-bottom:10px;margin-bottom:10px}.rtl .tdi_34 .td_module_wrap{float:right}.tdi_34 .td_block_inner{margin-left:-10px;margin-right:-10px}.tdi_34 .td-module-container:before{bottom:-10px;border-color:#eaeaea}.tdi_34 .td-post-vid-time{display:block}.tdi_34 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_34 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_34 .td-excerpt{display:none;column-count:1;column-gap:48px}.tdi_34 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_34 .td-read-more{display:none}.tdi_34 .td-author-date{display:inline}.tdi_34 .td-post-author-name{display:inline-block}.tdi_34 .td-post-date,.tdi_34 .td-post-author-name span{display:inline-block}.tdi_34 .entry-review-stars{display:none}.tdi_34 .td-icon-star,.tdi_34 .td-icon-star-empty,.tdi_34 .td-icon-star-half{font-size:15px}.tdi_34 .td-module-comments{display:none}.tdi_34 .td_module_wrap:nth-child(3n+1){clear:both}.tdi_34 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0;padding-bottom:0}.tdi_34 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none}html:not([class*='ie']) .tdi_34 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:1019px) and (max-width:1140px){.tdi_34 .td_module_wrap{padding-bottom:10px;margin-bottom:10px}.tdi_34 .td-module-container:before{bottom:-10px}.tdi_34 .td_module_wrap{clear:none!important;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_34 .td_module_wrap:nth-child(3n+1){clear:both!important}.tdi_34 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0!important;padding-bottom:0!important}.tdi_34 .td_module_wrap .td-module-container:before{display:block!important}.tdi_34 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none!important}}@media (min-width:768px) and (max-width:1018px){.tdi_34 .td_module_wrap{padding-bottom:10px;margin-bottom:10px}.tdi_34 .td-module-container:before{bottom:-10px}.tdi_34 .td_module_wrap{clear:none!important;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_34 .td_module_wrap:nth-child(3n+1){clear:both!important}.tdi_34 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0!important;padding-bottom:0!important}.tdi_34 .td_module_wrap .td-module-container:before{display:block!important}.tdi_34 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none!important}}@media (max-width:767px){.tdi_34 .td_module_wrap{width:100%;float:left}.rtl .tdi_34 .td_module_wrap{float:right}.tdi_34 .td_module_wrap{padding-bottom:10px;margin-bottom:10px;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_34 .td-module-container:before{bottom:-10px}.tdi_34 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_34 .td_module_wrap .td-module-container:before{display:block!important}.tdi_34 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}}</style><script>var block_tdi_34 = new tdBlock();
+block_tdi_34.id = "tdi_34";
+block_tdi_34.atts = '{"modules_on_row":"eyJhbGwiOiIzMy4zMzMzMzMzMyUiLCJwaG9uZSI6IjEwMCUifQ==","limit":"6","hide_audio":"yes","modules_gap":"20","all_modules_space":"20","show_btn":"none","show_excerpt":"none","show_com":"none","show_review":"none","custom_title":"BIOGRAPHY","category_id":"4981","sort":"random_posts","block_type":"td_flex_block_1","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","container_width":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_border_radius":"","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_size":"","image_alignment":"50","image_height":"","image_width":"","image_floated":"no_float","image_radius":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_info_horiz":"layout-default","meta_width":"","meta_margin":"","meta_padding":"","meta_space":"","art_title":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","modules_category":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","modules_extra_cat":"","show_author":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_date":"inline-block","review_space":"","review_size":"2.5","review_distance":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","excerpt_inline":"","show_audio":"block","art_audio":"","art_audio_size":"1.5","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_size":"","f_title_font_line_height":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_34","tdc_css_class":"tdi_34","tdc_css_class_style":"tdi_34_rand_style"}';
+block_tdi_34.td_column_number = "1";
+block_tdi_34.block_type = "td_flex_block_1";
+block_tdi_34.post_count = "6";
+block_tdi_34.found_posts = "7792";
+block_tdi_34.header_color = "";
+block_tdi_34.ajax_pagination_infinite_stop = "";
+block_tdi_34.max_num_pages = "1299";
+tdBlocksArray.push(block_tdi_34);
+</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">BIOGRAPHY</span></h4></div><div id=tdi_34 class="td_block_inner td-mc1-wrap">
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/rachael-froch-bio-model-carl-froch-wife/"  rel="bookmark" class="td-image-wrap " title="Rachael (Cordingley) Froch: Bio, Husband, Social Life, Net Worth, Model, Carl Froch Wife" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2020/11/Untitled-design-696x404.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/rachael-froch-bio-model-carl-froch-wife/"  rel="bookmark" title="Rachael (Cordingley) Froch: Bio, Husband, Social Life, Net Worth, Model, Carl Froch Wife">Rachael (Cordingley) Froch: Bio, Husband, Social Life, Net Worth, Model, Carl Froch Wife</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/bio/" class="td-post-category">Biography</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/admin/">Admin</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-11-05T13:55:42+00:00" >November 5, 2020</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/luisa-beirao-bio-model-vedran-corluka-wife/"  rel="bookmark" class="td-image-wrap " title="Luisa Beirao: Bio, Model, Vedran Corluka Wife" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2020/10/Vedran-Corluka-Wife-696x390.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/luisa-beirao-bio-model-vedran-corluka-wife/"  rel="bookmark" title="Luisa Beirao: Bio, Model, Vedran Corluka Wife">Luisa Beirao: Bio, Model, Vedran Corluka Wife</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/bio/" class="td-post-category">Biography</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/admin/">Admin</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-10-11T14:57:43+00:00" >October 11, 2020</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/mandy-rose-wrestler-wwe-tino-sabbatelli-wife/"  rel="bookmark" class="td-image-wrap " title="Mandy Rose: Wrestler, WWE, Tino Sabbatelli Wife" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2020/10/Mandy-Rose.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/mandy-rose-wrestler-wwe-tino-sabbatelli-wife/"  rel="bookmark" title="Mandy Rose: Wrestler, WWE, Tino Sabbatelli Wife">Mandy Rose: Wrestler, WWE, Tino Sabbatelli Wife</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/bio/" class="td-post-category">Biography</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/admin/">Admin</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-10-22T05:56:53+00:00" >October 22, 2020</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/taryn-terrell-wrestler-bio-wwe-2020-age-height-net-worlth-husband-drew-mcintyre/"  rel="bookmark" class="td-image-wrap " title="Taryn Terrell Wrestler Bio: WWE 2020, Age, Height, Net Worlth, Husband Drew McIntyre" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2020/09/maxresdefault-696x392.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/taryn-terrell-wrestler-bio-wwe-2020-age-height-net-worlth-husband-drew-mcintyre/"  rel="bookmark" title="Taryn Terrell Wrestler Bio: WWE 2020, Age, Height, Net Worlth, Husband Drew McIntyre">Taryn Terrell Wrestler Bio: WWE 2020, Age, Height, Net Worlth, Husband Drew McIntyre</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/bio/" class="td-post-category">Biography</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/admin/">Admin</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-09-15T11:24:13+00:00" >September 15, 2020</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/marijana-matthaus-bio-entrepreneur-lothar-matthaus-wife/"  rel="bookmark" class="td-image-wrap " title="Marijana Matthaus: Bio, entrepreneur, Lothar Matthaus Wife" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2020/10/Marijana-Matthaus.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/marijana-matthaus-bio-entrepreneur-lothar-matthaus-wife/"  rel="bookmark" title="Marijana Matthaus: Bio, entrepreneur, Lothar Matthaus Wife">Marijana Matthaus: Bio, entrepreneur, Lothar Matthaus Wife</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/bio/" class="td-post-category">Biography</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/admin/">Admin</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-10-15T17:51:57+00:00" >October 15, 2020</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/sara-carbonero-bio-family-life-profession-husband-iker-casillas/"  rel="bookmark" class="td-image-wrap " title="Sara Carbonero Bio, Family Life, Profession, Husband Iker Casillas" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2020/09/sara-carbonero-calzedonia.jpeg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/sara-carbonero-bio-family-life-profession-husband-iker-casillas/"  rel="bookmark" title="Sara Carbonero Bio, Family Life, Profession, Husband Iker Casillas">Sara Carbonero Bio, Family Life, Profession, Husband Iker Casillas</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/bio/" class="td-post-category">Biography</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/admin/">Admin</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-09-06T09:17:05+00:00" >September 6, 2020</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        </div></div></div></div><div class="vc_column tdi_36  wpb_column vc_column_container tdc-column td-pb-span3">
+<style scoped>.tdi_36{vertical-align:baseline}.tdi_36>.wpb_wrapper,.tdi_36>.wpb_wrapper>.tdc-elements{display:block}.tdi_36>.wpb_wrapper>.tdc-elements{width:100%}.tdi_36>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_36>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_1 tdi_37 td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_37" >
+<style></style>
+<style>.tdi_37 .entry-thumb{background-position:center 50%}.tdi_37 .td-module-container{flex-direction:column;border-color:#eaeaea!important}.tdi_37 .td-image-container{display:block;order:0}.ie10 .tdi_37 .td-module-meta-info,.ie11 .tdi_37 .td-module-meta-info{flex:auto}body .tdi_37 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_37 .td-module-meta-info{border-color:#eaeaea}.tdi_37 .td_module_wrap{padding-left:20px;padding-right:20px;padding-bottom:18px;margin-bottom:18px}.tdi_37 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_37 .td-module-container:before{bottom:-18px;border-color:#eaeaea}.tdi_37 .td-post-vid-time{display:block}.tdi_37 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_37 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_37 .td-excerpt{display:none;column-count:1;column-gap:48px}.tdi_37 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_37 .td-read-more{display:none}.tdi_37 .td-author-date{display:inline}.tdi_37 .td-post-author-name{display:inline-block}.tdi_37 .td-post-date,.tdi_37 .td-post-author-name span{display:none}.tdi_37 .entry-review-stars{display:none}.tdi_37 .td-icon-star,.tdi_37 .td-icon-star-empty,.tdi_37 .td-icon-star-half{font-size:15px}.tdi_37 .td-module-comments{display:none}.tdi_37 .td_module_wrap:nth-last-child(1){margin-bottom:0;padding-bottom:0}.tdi_37 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none}html:not([class*='ie']) .tdi_37 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:1019px) and (max-width:1140px){.tdi_37 .td_module_wrap{padding-bottom:18px;margin-bottom:18px}.tdi_37 .td-module-container:before{bottom:-18px}.tdi_37 .td_module_wrap{padding-bottom:18px!important;margin-bottom:18px!important}.tdi_37 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_37 .td_module_wrap .td-module-container:before{display:block!important}.tdi_37 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}}@media (min-width:768px) and (max-width:1018px){.tdi_37 .td_module_wrap{padding-bottom:18px;margin-bottom:18px}.tdi_37 .td-module-container:before{bottom:-18px}.tdi_37 .td_module_wrap{padding-bottom:18px!important;margin-bottom:18px!important}.tdi_37 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_37 .td_module_wrap .td-module-container:before{display:block!important}.tdi_37 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}}@media (max-width:767px){.tdi_37 .td_module_wrap{padding-bottom:18px;margin-bottom:18px}.tdi_37 .td-module-container:before{bottom:-18px}.tdi_37 .td_module_wrap{padding-bottom:18px!important;margin-bottom:18px!important}.tdi_37 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_37 .td_module_wrap .td-module-container:before{display:block!important}.tdi_37 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}}</style><script>var block_tdi_37 = new tdBlock();
+block_tdi_37.id = "tdi_37";
+block_tdi_37.atts = '{"modules_on_row":"","limit":"2","hide_audio":"yes","show_btn":"none","show_excerpt":"none","show_com":"none","show_review":"none","show_date":"none","sort":"","custom_title":"Most Populaar","block_type":"td_flex_block_1","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","post_ids":"","category_id":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","container_width":"","modules_gap":"","m_padding":"","all_modules_space":"36","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_border_radius":"","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_size":"","image_alignment":"50","image_height":"","image_width":"","image_floated":"no_float","image_radius":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_info_horiz":"layout-default","meta_width":"","meta_margin":"","meta_padding":"","meta_space":"","art_title":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","modules_category":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","modules_extra_cat":"","show_author":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","review_space":"","review_size":"2.5","review_distance":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","excerpt_inline":"","show_audio":"block","art_audio":"","art_audio_size":"1.5","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_size":"","f_title_font_line_height":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_37","tdc_css_class":"tdi_37","tdc_css_class_style":"tdi_37_rand_style"}';
+block_tdi_37.td_column_number = "1";
+block_tdi_37.block_type = "td_flex_block_1";
+block_tdi_37.post_count = "2";
+block_tdi_37.found_posts = "7792";
+block_tdi_37.header_color = "";
+block_tdi_37.ajax_pagination_infinite_stop = "";
+block_tdi_37.max_num_pages = "3896";
+tdBlocksArray.push(block_tdi_37);
+</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Most Populaar</span></h4></div><div id=tdi_37 class="td_block_inner td-mc1-wrap">
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/exploring-mumbai-in-a-day-as-a-couple-heres-why-you-should-book-an-hourly-hotel/"  rel="bookmark" class="td-image-wrap " title="Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/06/2-696x381.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/exploring-mumbai-in-a-day-as-a-couple-heres-why-you-should-book-an-hourly-hotel/"  rel="bookmark" title="Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel">Exploring Mumbai in a Day as a Couple? Here’s Why You Should Book an Hourly Hotel</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/lifestyle/" class="td-post-category">Lifestyle</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                                                                                                                            </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/td88-the-ultimate-platform-for-casino-sports-betting-and-more/"  rel="bookmark" class="td-image-wrap " title="TD88 – The Ultimate Platform for Casino, Sports Betting, and More" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/05/Screenshot-2025-05-23-135552-696x445.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/td88-the-ultimate-platform-for-casino-sports-betting-and-more/"  rel="bookmark" title="TD88 – The Ultimate Platform for Casino, Sports Betting, and More">TD88 – The Ultimate Platform for Casino, Sports Betting, and More</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/casino/" class="td-post-category">Casino</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                                                                                                                            </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        </div></div></div></div></div></div><div id="tdi_38" class="tdc-row"><div class="vc_row tdi_39  wpb_row td-pb-row" >
+<style scoped>.tdi_39,.tdi_39 .tdc-columns{min-height:0}.tdi_39,.tdi_39 .tdc-columns{display:block}.tdi_39 .tdc-columns{width:100%}</style><div class="vc_column tdi_41  wpb_column vc_column_container tdc-column td-pb-span12">
+<style scoped>.tdi_41{vertical-align:top}.tdi_41>.wpb_wrapper,.tdi_41>.wpb_wrapper>.tdc-elements{display:block}.tdi_41>.wpb_wrapper>.tdc-elements{width:100%}.tdi_41>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_41>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_1 tdi_42 td_with_ajax_pagination td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_42" >
+<style></style>
+<style>.tdi_42 .entry-thumb{background-position:center 50%}.tdi_42 .td-module-container{flex-direction:column;border-color:#eaeaea!important}.tdi_42 .td-image-container{display:block;order:0}.ie10 .tdi_42 .td-module-meta-info,.ie11 .tdi_42 .td-module-meta-info{flex:auto}body .tdi_42 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_42 .td-module-meta-info{border-color:#eaeaea}.tdi_42 .td_module_wrap{width:33.33333333%;float:left;padding-left:10px;padding-right:10px;padding-bottom:10px;margin-bottom:10px}.rtl .tdi_42 .td_module_wrap{float:right}.tdi_42 .td_block_inner{margin-left:-10px;margin-right:-10px}.tdi_42 .td-module-container:before{bottom:-10px;border-color:#eaeaea}.tdi_42 .td-post-vid-time{display:block}.tdi_42 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_42 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_42 .td-excerpt{display:none;column-count:1;column-gap:48px}.tdi_42 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_42 .td-read-more{display:none}.tdi_42 .td-author-date{display:inline}.tdi_42 .td-post-author-name{display:inline-block}.tdi_42 .td-post-date,.tdi_42 .td-post-author-name span{display:inline-block}.tdi_42 .entry-review-stars{display:none}.tdi_42 .td-icon-star,.tdi_42 .td-icon-star-empty,.tdi_42 .td-icon-star-half{font-size:15px}.tdi_42 .td-module-comments{display:none}.tdi_42 .td_module_wrap:nth-child(3n+1){clear:both}.tdi_42 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0;padding-bottom:0}.tdi_42 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none}.tdi_42 .td-block-title a,.tdi_42 .td-block-title span{text-transform:uppercase!important}html:not([class*='ie']) .tdi_42 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:1019px) and (max-width:1140px){.tdi_42 .td_module_wrap{padding-bottom:10px;margin-bottom:10px}.tdi_42 .td-module-container:before{bottom:-10px}.tdi_42 .td_module_wrap{clear:none!important;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_42 .td_module_wrap:nth-child(3n+1){clear:both!important}.tdi_42 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0!important;padding-bottom:0!important}.tdi_42 .td_module_wrap .td-module-container:before{display:block!important}.tdi_42 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none!important}}@media (min-width:768px) and (max-width:1018px){.tdi_42 .td_module_wrap{padding-bottom:10px;margin-bottom:10px}.tdi_42 .td-module-container:before{bottom:-10px}.tdi_42 .td_module_wrap{clear:none!important;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_42 .td_module_wrap:nth-child(3n+1){clear:both!important}.tdi_42 .td_module_wrap:nth-last-child(-n+3){margin-bottom:0!important;padding-bottom:0!important}.tdi_42 .td_module_wrap .td-module-container:before{display:block!important}.tdi_42 .td_module_wrap:nth-last-child(-n+3) .td-module-container:before{display:none!important}}@media (max-width:767px){.tdi_42 .td_module_wrap{width:100%;float:left}.rtl .tdi_42 .td_module_wrap{float:right}.tdi_42 .td_module_wrap{padding-bottom:10px;margin-bottom:10px;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_42 .td-module-container:before{bottom:-10px}.tdi_42 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_42 .td_module_wrap .td-module-container:before{display:block!important}.tdi_42 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}}</style><script>var block_tdi_42 = new tdBlock();
+block_tdi_42.id = "tdi_42";
+block_tdi_42.atts = '{"modules_on_row":"eyJhbGwiOiIzMy4zMzMzMzMzMyUiLCJwaG9uZSI6IjEwMCUifQ==","limit":"3","hide_audio":"yes","modules_gap":"20","all_modules_space":"20","show_btn":"none","show_excerpt":"none","show_com":"none","show_review":"none","category_id":"13175","f_header_font_transform":"uppercase","sort":"","custom_title":"health","ajax_pagination":"load_more","block_type":"td_flex_block_1","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","container_width":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_border_radius":"","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_size":"","image_alignment":"50","image_height":"","image_width":"","image_floated":"no_float","image_radius":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_info_horiz":"layout-default","meta_width":"","meta_margin":"","meta_padding":"","meta_space":"","art_title":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","modules_category":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","modules_extra_cat":"","show_author":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_date":"inline-block","review_space":"","review_size":"2.5","review_distance":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","excerpt_inline":"","show_audio":"block","art_audio":"","art_audio_size":"1.5","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_size":"","f_title_font_line_height":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":3,"header_color":"","color_preset":"","border_top":"","class":"tdi_42","tdc_css_class":"tdi_42","tdc_css_class_style":"tdi_42_rand_style"}';
+block_tdi_42.td_column_number = "3";
+block_tdi_42.block_type = "td_flex_block_1";
+block_tdi_42.post_count = "3";
+block_tdi_42.found_posts = "7792";
+block_tdi_42.header_color = "";
+block_tdi_42.ajax_pagination_infinite_stop = "";
+block_tdi_42.max_num_pages = "2598";
+tdBlocksArray.push(block_tdi_42);
+</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">health</span></h4></div><div id=tdi_42 class="td_block_inner td-mc1-wrap">
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/what-to-expect-at-your-childs-first-dental-visit/"  rel="bookmark" class="td-image-wrap " title="What to Expect at Your Child’s First Dental Visit" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2025/05/image.png"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/what-to-expect-at-your-childs-first-dental-visit/"  rel="bookmark" title="What to Expect at Your Child’s First Dental Visit">What to Expect at Your Child’s First Dental Visit</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/health/" class="td-post-category">health</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-05-17T07:23:02+00:00" >May 17, 2025</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/the-first-step-to-sobriety-a-practical-guide-to-starting-your-journey/"  rel="bookmark" class="td-image-wrap " title="The First Step to Sobriety: A Practical Guide to Starting Your Journey" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2024/12/Eudaimonia-Sober-Living-Colorado-Springs-Colorado-1-scaled-1-696x392.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/the-first-step-to-sobriety-a-practical-guide-to-starting-your-journey/"  rel="bookmark" title="The First Step to Sobriety: A Practical Guide to Starting Your Journey">The First Step to Sobriety: A Practical Guide to Starting Your Journey</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/health/" class="td-post-category">health</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-12-23T04:31:53+00:00" >December 23, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        
+        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
+            <div class="td-module-container td-category-pos-">
+                                    <div class="td-image-container">
+                                                <div class="td-module-thumb"><a href="https://www.meidilight.com/the-top-reasons-why-parents-trust-hipp-formula-for-their-babies/"  rel="bookmark" class="td-image-wrap " title="The Top Reasons Why Parents Trust HiPP Formula for Their Babies" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://www.meidilight.com/wp-content/uploads/2024/10/Screenshot-2024-10-01-144314-696x465.jpg"  ></span></a></div>                                                                    </div>
+                
+                <div class="td-module-meta-info">
+                                        
+                    <h3 class="entry-title td-module-title"><a href="https://www.meidilight.com/the-top-reasons-why-parents-trust-hipp-formula-for-their-babies/"  rel="bookmark" title="The Top Reasons Why Parents Trust HiPP Formula for Their Babies">The Top Reasons Why Parents Trust HiPP Formula for Their Babies</a></h3>
+                    
+                                            <div class="td-editor-date">
+                                                        <a href="https://www.meidilight.com/category/health/" class="td-post-category">health</a>
+                                                            <span class="td-author-date">
+                                                                        <span class="td-post-author-name"><a href="https://www.meidilight.com/author/grace/">Grace</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2024-10-01T12:01:48+00:00" >October 1, 2024</time></span>                                                                                                        </span>
+                                                    </div>
+                    
+                    
+                    
+                                    </div>
+            </div>
+        </div>
+
+        </div><div class="td-load-more-wrap"><a href="#" class="td_ajax_load_more td_ajax_load_more_js" aria-label="Load more" id="next-page-tdi_42" data-td_block_id="tdi_42">Load more<i class="td-load-more-icon td-icon-font td-icon-menu-right"></i></a></div></div></div></div></div></div></div></div>                </div>
+                            </div> <!-- /.td-main-content-wrap -->
+
+
+            <!-- Instagram -->
+
+	
+	
+            <div class="tdc-footer-wrap ">
+
+                <!-- Footer -->
+				<div class="td-footer-wrapper td-footer-container td-container-wrap ">
+    <div class="td-container">
+
+	    <div class="td-pb-row">
+		    <div class="td-pb-span12">
+                		    </div>
+	    </div>
+
+        <div class="td-pb-row">
+            <div class="td-pb-span12">
+                            </div>
+        </div>
+    </div>
+</div>
+                <!-- Sub Footer -->
+				    <div class="td-sub-footer-container td-container-wrap ">
+    <div class="td-container">
+        <div class="td-pb-row">
+            <div class="td-pb-span td-sub-footer-menu">
+                <div class="menu-contact-us-2-container"><ul id="menu-contact-us-2" class="td-subfooter-menu"><li id="menu-item-45225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-45225"><a href="https://www.meidilight.com/about-us/">About Us</a></li>
+<li id="menu-item-45226" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-45226"><a href="https://www.meidilight.com/contact-us/">Contact Us</a></li>
+</ul></div>            </div>
+
+            <div class="td-pb-span td-sub-footer-copy">
+                &copy; Copyright 2020, All Rights Reserved             </div>
+
+                        </div>
+        </div>
+    </div>
+            </div><!--close td-footer-wrap-->
+			
+
+</div><!--close td-outer-wrap-->
+
+
+
+
+    <!--
+
+        Theme: Newspaper by tagDiv.com 2023
+        Version: 12.6.3 (rara)
+        Deploy mode: deploy
+        
+        uid: 6842de4346062
+    -->
+
+    <script type="text/javascript" id="chaty-front-end-js-extra">
+/* <![CDATA[ */
+var chaty_settings = {"ajax_url":"https:\/\/www.meidilight.com\/wp-admin\/admin-ajax.php","analytics":"0","capture_analytics":"0","token":"f2e89c3af8","lang":{"whatsapp_label":"WhatsApp Message","hide_whatsapp_form":"Hide WhatsApp Form"},"chaty_widgets":[{"id":0,"identifier":0,"settings":{"cta_type":"simple-view","cta_body":"","cta_head":"","cta_head_bg_color":"","cta_head_text_color":"","show_close_button":1,"position":"right","custom_position":1,"bottom_spacing":"25","side_spacing":"25","icon_view":"vertical","default_state":"click","cta_text":"Contact us","cta_text_color":"#333333","cta_bg_color":"#ffffff","show_cta":"first_click","is_pending_mesg_enabled":"off","pending_mesg_count":"1","pending_mesg_count_color":"#ffffff","pending_mesg_count_bgcolor":"#dd0000","widget_icon":"chat-base","widget_icon_url":"","font_family":"-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif","widget_size":"54","custom_widget_size":"54","is_google_analytics_enabled":0,"close_text":"Hide","widget_color":"#A886CD","widget_rgb_color":"168,134,205","has_custom_css":0,"custom_css":"","widget_token":"00bb55fcc0","widget_index":"","attention_effect":""},"triggers":{"has_time_delay":1,"time_delay":"0","exit_intent":0,"has_display_after_page_scroll":0,"display_after_page_scroll":"0","auto_hide_widget":0,"hide_after":0,"show_on_pages_rules":[],"time_diff":0,"has_date_scheduling_rules":0,"date_scheduling_rules":{"start_date_time":"","end_date_time":""},"date_scheduling_rules_timezone":0,"day_hours_scheduling_rules_timezone":0,"has_day_hours_scheduling_rules":[],"day_hours_scheduling_rules":[],"day_time_diff":0,"show_on_direct_visit":0,"show_on_referrer_social_network":0,"show_on_referrer_search_engines":0,"show_on_referrer_google_ads":0,"show_on_referrer_urls":[],"has_show_on_specific_referrer_urls":0,"has_traffic_source":0,"has_countries":0,"countries":[],"has_target_rules":0},"channels":[{"channel":"Skype","value":"live:.cid.3c9dac9666cae8ca","hover_text":"Skype","svg_icon":"<svg width=\"39\" height=\"39\" viewBox=\"0 0 39 39\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\"><circle class=\"color-element\" cx=\"19.4395\" cy=\"19.4395\" r=\"19.4395\" fill=\"#03A9F4\"\/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M10.5634 0.777588C16.0406 0.777588 20.4747 5.05426 20.4747 10.4973C20.4747 11.1453 20.4747 11.9229 20.0834 12.5709C20.4747 13.2189 20.7355 14.1261 20.7355 15.0332C20.7355 18.1436 18.1273 20.7355 14.9974 20.7355C13.9541 20.7355 13.0412 20.4763 12.2587 20.0875C11.6067 20.2171 11.085 20.2171 10.433 20.2171C4.95566 20.2171 0.521637 15.9404 0.521637 10.4973C0.521637 9.84955 0.652008 9.20175 0.782349 8.55392L0.782471 8.55338C0.260834 7.77582 0 6.73904 0 5.70227C0 2.59195 2.60825 0 5.73813 0C6.91183 0 7.95514 0.388794 8.86801 0.907166C9.38965 0.777588 10.0417 0.777588 10.5634 0.777588ZM13.5627 16.718C14.4756 16.3292 15.1276 15.8108 15.6493 15.1628C16.1709 14.5149 16.3013 13.7373 16.0405 12.9597C16.0405 12.3117 15.9101 11.7933 15.6493 11.2749C15.3884 10.7565 14.9972 10.3677 14.4756 10.1086L14.4752 10.1084C13.9536 9.84924 13.4321 9.59012 12.7802 9.33096C12.5034 9.27597 12.2031 9.1976 11.8893 9.11572C11.4638 9.0047 11.0135 8.88718 10.5632 8.81259C10.1953 8.66635 9.86893 8.60263 9.60748 8.55157C9.40552 8.51215 9.24231 8.48029 9.12866 8.4238C8.86792 8.4238 8.60721 8.29428 8.34647 8.16473L8.34619 8.16461C8.08536 8.035 7.82455 7.90543 7.69412 7.77582C7.43329 7.64621 7.43329 7.51663 7.43329 7.25742C7.43329 6.86862 7.69412 6.60944 8.08536 6.35025C8.47659 6.09106 9.12866 5.96146 9.78073 5.96146C10.5632 5.96146 11.0848 6.09106 11.4761 6.35025C11.8673 6.60944 12.1281 6.86865 12.3889 7.38702C12.6497 7.77563 12.9104 8.03476 13.0408 8.16443L13.041 8.16461C13.3018 8.29419 13.5627 8.4238 13.9539 8.4238C14.3451 8.4238 14.7364 8.29419 14.9972 8.035C15.258 7.77582 15.3884 7.51663 15.3884 7.12784C15.3884 6.73904 15.3884 6.35025 15.1276 5.96146C15.0313 5.67429 14.7927 5.45782 14.5169 5.20764C14.4193 5.11908 14.317 5.02631 14.2147 4.92468C13.6931 4.6655 13.1714 4.40631 12.5194 4.14709C11.8673 4.01752 11.0848 3.88791 10.172 3.88791C9.12866 3.88791 8.08536 4.01752 7.30289 4.2767C6.39001 4.53589 5.73795 5.05429 5.34671 5.57266C4.95547 6.09106 4.69464 6.73904 4.69464 7.51663C4.69464 8.29419 4.95547 8.9422 5.34671 9.46057C5.73795 9.97897 6.39001 10.3677 7.04205 10.627C7.69412 10.8861 8.60703 11.1453 9.6503 11.4045C10.4328 11.5341 11.0848 11.6637 11.4761 11.7933C11.8673 11.9229 12.2585 12.0525 12.5194 12.3117C12.7802 12.5709 12.9106 12.8301 12.9106 13.2189C12.9106 13.6077 12.6498 13.9965 12.1281 14.3853C11.6065 14.774 10.9544 14.9036 10.172 14.9036C9.6503 14.9036 9.12866 14.774 8.73743 14.6444C8.47659 14.5149 8.21576 14.2556 7.95496 13.9965C7.91547 13.918 7.86407 13.8277 7.80792 13.7291C7.67859 13.5019 7.52423 13.2308 7.43329 12.9597C7.40817 12.9098 7.38306 12.855 7.35703 12.7983C7.24783 12.5604 7.12225 12.2867 6.91165 12.1821C6.65085 12.0525 6.39001 11.9229 5.99878 11.9229C5.60754 11.9229 5.21631 12.0525 4.95547 12.3117C4.69464 12.5709 4.56424 12.8301 4.56424 13.2189C4.56424 13.8669 4.82507 14.3853 5.21631 15.0332C5.73795 15.6812 6.25961 16.07 6.91165 16.4588C7.82455 16.9772 8.99823 17.2364 10.4328 17.2364C11.6065 17.2364 12.6498 17.1068 13.5627 16.718Z\" transform=\"translate(9.07178 9.07178)\" fill=\"white\"\/><\/svg>","is_desktop":1,"is_mobile":1,"icon_color":"#03A9F4","icon_rgb_color":"3,169,244","channel_type":"Skype","custom_image_url":"","order":"","pre_set_message":"","is_use_web_version":"1","is_open_new_tab":"1","is_default_open":"0","has_welcome_message":"0","chat_welcome_message":"","qr_code_image_url":"","mail_subject":"","channel_account_type":"personal","contact_form_settings":[],"contact_fields":[],"url":"skype:live:.cid.3c9dac9666cae8ca?chat","mobile_target":"","desktop_target":"","target":"","is_agent":0,"agent_data":[],"header_text":"","header_sub_text":"","header_bg_color":"","header_text_color":"","widget_token":"00bb55fcc0","widget_index":"","click_event":""}]}],"data_analytics_settings":"off"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.meidilight.com/wp-content/plugins/chaty/js/cht-front-script.min.js?ver=3.1.81668487723" id="chaty-front-end-js" defer></script>
+<script type="text/javascript" src="https://www.meidilight.com/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?ver=12.6.3" id="td-site-min-js" defer></script>
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/js/tdPostImages.js?ver=1736344340" id="tdPostImages-js" defer></script>
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/js/tdSocialSharing.js?ver=1736344340" id="tdSocialSharing-js" defer></script>
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/js/tdModalPostImages.js?ver=1736344340" id="tdModalPostImages-js" defer></script>
+<script type="text/javascript" src="https://www.meidilight.com/wp-includes/js/comment-reply.min.js?ver=6.4.5" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/pwa-for-wp/assets/js/pwaforwp-video.js?ver=1736344340" id="pwaforwp-video-js-js" defer></script>
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/pwa-for-wp/assets/js/pwaforwp-download.js?ver=1736344340" id="pwaforwp-download-js-js" defer></script>
+<script type="text/javascript" src="https://www.meidilight.com/pwa-register-sw.js?ver=1.7.66" id="pwa-main-script-js" defer></script>
+<script type="text/javascript" src="https://www.meidilight.com/wp-content/plugins/td-cloud-library/assets/js/js_files_for_front.min.js?ver=6cc04771d778c6f460cf525df52258a3" id="tdb_js_files_for_front-js" defer></script>
+
+
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/js/tdLoadingBox.js?ver=1736344340" id="tdLoadingBox-js" defer></script>
+
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/js/tdAjaxSearch.js?ver=1736344340" id="tdAjaxSearch-js" defer></script>
+
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/js/tdDatei18n.js?ver=1736344340" id="tdDatei18n-js" defer></script>
+
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/js/tdLogin.js?ver=1736344340" id="tdLogin-js" defer></script>
+
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/js/tdMenu.js?ver=1736344340" id="tdMenu-js" defer></script>
+
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/js/tdTrendingNow.js?ver=1736344367" id="tdTrendingNow-js" defer></script>
+
+<script data-minify="1" type="text/javascript" src="https://www.meidilight.com/wp-content/cache/min/1/wp-content/plugins/td-composer/legacy/Newspaper/js/tdInfiniteLoader.js?ver=1736344367" id="tdInfiniteLoader-js" defer></script>
+<!-- JS generated by theme -->
+
+<script>
+    
+</script>
+
+
+<script>var td_res_context_registered_atts=["style_general_trending_now"];</script>
+
+</body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1749212739 -->
